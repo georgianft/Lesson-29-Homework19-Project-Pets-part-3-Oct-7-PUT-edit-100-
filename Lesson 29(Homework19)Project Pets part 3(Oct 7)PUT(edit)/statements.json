@@ -1,0 +1,26 @@
+{
+  "statements": [
+    {
+      "title": "vorobeei edited",
+      "image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/12A9B/production/_111434467_gettyimages-1143489763.jpg",
+      "description": "2",
+      "contactPersonName": "gio",
+      "contactPersonNumber": "555",
+      "address": "san andreas",
+      "pet": "fiso",
+      "price": "50",
+      "id": 2
+    },
+    {
+      "title": "jack",
+      "image": "https://cdn.pixabay.com/photo/2016/03/28/12/35/cat-1285634__340.png",
+      "description": "1",
+      "contactPersonName": "gio",
+      "contactPersonNumber": "555",
+      "address": "san andreas",
+      "pet": "fiso",
+      "price": "50",
+      "id": 3
+    }
+  ]
+}
